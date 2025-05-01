@@ -29,7 +29,7 @@ let i,j,length1=-1;
 async function BubbleSort(){
    heading.innerHTML = "Bubble Sort"
    
-   id2.innerHTML="Best:O(n)   Average : O(n^2)  Worst : O(n^2)"
+   id2.innerHTML="Best:O(n)<br>   Average : O(n^2)  Worst : O(n^2)"
    let bars = document.querySelector("#bars")
    let length = bars.childNodes.length
    length1=length
