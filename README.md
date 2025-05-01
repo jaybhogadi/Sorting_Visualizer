@@ -19,7 +19,7 @@ This project was developed during our summer internship in 2022 (between 3rd and
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the demo]
+🌐 [Click here to view the demo](https://sorting-visualizer.onrender.com)
 
 ---
 
